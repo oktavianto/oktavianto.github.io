@@ -1,8 +1,8 @@
 # Site settings
-title: Clean Blog
+title: Oktavianto
 header-img: img/home-bg.jpg
 email: excel@oktavianto.id
-copyright_name: Your/Project/Corporate Name
+copyright_name: Oktavianto
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: ""
 url: "https://oktavianto.github.io"
